@@ -1,2 +1,2 @@
-# Risc-v_Typing_Game
-Typing game like monkey type, but in risc-v
+# Lab_TypingGame_Base
+Base repo for Lab_TypingGame for CMPUT 229 Fall 2021

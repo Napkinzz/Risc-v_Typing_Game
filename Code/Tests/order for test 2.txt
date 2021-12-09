@@ -1,0 +1,23 @@
+DEFAULT 
+Xi = 15; a = 14; c = 3; m = 25
+
+13 10 18 5 23 0 3 20 8 15 13
+
+Marathons are difficult to complete.
+Pencil sharpeners are great.
+Mugs feel good to hold in your hand.
+Johnny eats red delicious apples.
+These sentences border on senseless.
+How many jellybeans in a jar?
+My ringtone is the Jaws theme.
+Babies are cute and cuddly, but do not eat them!
+Compilers are the best part of a computer.
+Chocolate cake is delicious with strawberries!
+Marathons are difficult to complete.
+
+
+
+
+
+
+

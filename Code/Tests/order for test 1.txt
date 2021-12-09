@@ -1,0 +1,15 @@
+DEFAULT 
+Xi = 15; a = 14; c = 3; m = 25
+
+13 10 18 5 23 0 3 20 8 15 13
+
+A cold day in July.
+Places and people are amazing!
+Beating a dead horse is fruitless.
+Baby Yoda is adorable.
+The happy penguin waddles!
+The happy man dances under the bridge.
+Jumping jacks are great exercise.
+How old is the oldest person?
+Joe is between a rock and a hard place.
+A cold day in July.

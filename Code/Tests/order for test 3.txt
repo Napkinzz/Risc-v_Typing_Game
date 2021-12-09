@@ -1,0 +1,43 @@
+0	No amount of freedom gets you clean.
+1	Play stupid games and win stupid prizes.
+2	I can not see the facts through all of my fury.
+3	She is still twenty-three inside her fantasy.
+4	I had a marvelous time ruining everything.
+5	You drew stars around my scars but now I am bleeding.
+6	They took the crown but it is alright.
+7	He has got my past frozen behind glass.
+8	Back when you fit in my poems like a perfect rhyme.
+9	I once believed love would be burning red.
+10	You are not my homeland anymore.
+11	He said he liked the way my blue eyes shone.
+12	He was casually cruel in the name of being honest.
+13	You can plan for a change in weather and time.
+14	I am still a believer but I do not know why.
+15	She wears short skirts and I wear t-shirts.
+16	They told me all of my cages were mental.
+17	The road not taken looks real good now.
+18	Time flies, messy as the mud on your truck tires.
+19	Look at this godforsaken mess that you made me!
+20	I take this magnetic force of a man.
+21	You held your head like a hero.
+22	When the sun came up you were looking at me.
+23	I did not have it in myself to go with grace.
+24	It never ever occurred to you.
+
+DEFAULT 
+Xi = 15; a = 14; c = 3; m = 25
+
+13 10 18 5 23 0 3 20 8 15 13
+
+You can plan for a change in weather and time.
+You are not my homeland anymore.
+Time flies, messy as the mud on your truck tires.
+You drew stars around my scars but now I am bleeding.
+I did not have it in myself to go with grace.
+No amount of freedom gets you clean.
+She is still twenty-three inside her fantasy.
+I take this magnetic force of a man.
+Back when you fit in my poems like a perfect rhyme.
+She wears short skirts and I wear t-shirts.
+You can plan for a change in weather and time.
+
